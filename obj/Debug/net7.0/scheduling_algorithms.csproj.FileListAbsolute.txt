@@ -1,0 +1,14 @@
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\bin\Debug\net7.0\scheduling_algorithms.exe
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\bin\Debug\net7.0\scheduling_algorithms.deps.json
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\bin\Debug\net7.0\scheduling_algorithms.runtimeconfig.json
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\bin\Debug\net7.0\scheduling_algorithms.dll
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\bin\Debug\net7.0\scheduling_algorithms.pdb
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\scheduling_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\scheduling_algorithms.AssemblyInfoInputs.cache
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\scheduling_algorithms.AssemblyInfo.cs
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\scheduling_algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\scheduling_algorithms.dll
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\refint\scheduling_algorithms.dll
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\scheduling_algorithms.pdb
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\scheduling_algorithms.genruntimeconfig.cache
+C:\Users\Barnabas Solomon\OneDrive\Desktop\misc\C# projects\scheduling_algorithms\obj\Debug\net7.0\ref\scheduling_algorithms.dll
